@@ -1,0 +1,15 @@
+C:\Users\Юлия\Desktop\DZ_3\num21\obj\Debug\net6.0\num21.csproj.AssemblyReference.cache
+C:\Users\Юлия\Desktop\DZ_3\num21\obj\Debug\net6.0\num21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юлия\Desktop\DZ_3\num21\obj\Debug\net6.0\num21.AssemblyInfoInputs.cache
+C:\Users\Юлия\Desktop\DZ_3\num21\obj\Debug\net6.0\num21.AssemblyInfo.cs
+C:\Users\Юлия\Desktop\DZ_3\num21\obj\Debug\net6.0\num21.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\Desktop\DZ_3\num21\bin\Debug\net6.0\num21.exe
+C:\Users\Юлия\Desktop\DZ_3\num21\bin\Debug\net6.0\num21.deps.json
+C:\Users\Юлия\Desktop\DZ_3\num21\bin\Debug\net6.0\num21.runtimeconfig.json
+C:\Users\Юлия\Desktop\DZ_3\num21\bin\Debug\net6.0\num21.dll
+C:\Users\Юлия\Desktop\DZ_3\num21\bin\Debug\net6.0\num21.pdb
+C:\Users\Юлия\Desktop\DZ_3\num21\obj\Debug\net6.0\num21.dll
+C:\Users\Юлия\Desktop\DZ_3\num21\obj\Debug\net6.0\refint\num21.dll
+C:\Users\Юлия\Desktop\DZ_3\num21\obj\Debug\net6.0\num21.pdb
+C:\Users\Юлия\Desktop\DZ_3\num21\obj\Debug\net6.0\num21.genruntimeconfig.cache
+C:\Users\Юлия\Desktop\DZ_3\num21\obj\Debug\net6.0\ref\num21.dll
